@@ -1,0 +1,73 @@
+{
+  "Esportivos": [
+    { "id": 1, "nomes": "Buggatti", "valor": "R$3.500.000,000", "ano": "2022" },
+    {
+      "id": 2,
+      "nomes": "Porsche 911 GT3.",
+      "valor": "R$1.000.000.,99",
+      "ano": "2022"
+    },
+    {
+      "id": 3,
+      "nomes": "Mercedes-AMG GT Black Series",
+      "valor": "R$4.000.000,00",
+      "ano": "2022"
+    },
+    {
+      "id": 4,
+      "nomes": "Ford Mustang Mach 1",
+      "valor": "R$600.000,00",
+      "ano": "2022"
+    },
+    { "id": 5, "nomes": "BMW M3", "valor": "R$790.000,00", "ano": "2022" }
+  ],
+  "Popular": [
+    { "id": 1, "nomes": "Hyundai HB20", "valor": "R$77.390,00", "ano": "2020" },
+    {
+      "id": 2,
+      "nomes": "Chevrolet Onix",
+      "valor": "R$74.970,00",
+      "ano": "2020"
+    },
+    { "id": 3, "nomes": "Fiat Mobi", "valor": "R$67.680,00", "ano": "2020" },
+    {
+      "id": 4,
+      "nomes": "Volkswagen Gol",
+      "valor": "R$76.500,00",
+      "ano": "2020"
+    },
+    { "id": 5, "nomes": "Renault Kwid", "valor": "R$65.790,00", "ano": "2020" }
+  ],
+  "SUV": [
+    {
+      "id": 1,
+      "nomes": "Jeep Compass",
+      "valor": "R$180.000,00",
+      "ano": "2021"
+    },
+    {
+      "id": 2,
+      "nomes": "Volkswagen T-Cross",
+      "valor": "R$112.000,99",
+      "ano": "2021"
+    },
+    {
+      "id": 3,
+      "nomes": "Hyundai Creta",
+      "valor": "R$107.000,00",
+      "ano": "2021"
+    },
+    {
+      "id": 4,
+      "nomes": "Toyota Corolla Cross.",
+      "valor": "R$158.000,00",
+      "ano": "2021"
+    },
+    {
+      "id": 5,
+      "nomes": "Caoa Chery Tiggo 8",
+      "valor": "R$182.000,99",
+      "ano": "2021"
+    }
+  ]
+}
